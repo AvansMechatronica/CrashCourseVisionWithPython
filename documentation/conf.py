@@ -6,7 +6,7 @@
 # -- Project information -----------------------------------------------------
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#project-information
 
-project = 'Avans: Crash Course Vision With Python workshop'
+project = 'Avans: Crash Course Vision With Python'
 copyright = 'Avans ATIx: Gerard Harkema'
 author = 'Gerard Harkema'
 release = '0.1'

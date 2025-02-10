@@ -3,10 +3,10 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-Welkom bij de Crash Course Vision With Python workshop
-===========================================================
+Welkom bij de Crash Course Vision With Python
+=============================================
 
-**Crash Course Vision With Python workshop** is ontwikkeld voor de Landelijke Studiedag Mechatronica 2025
+**Crash Course Vision With Python** is ontwikkeld voor de Landelijke Studiedag Mechatronica 2025
 .. note::
    This project is under active development.
 
