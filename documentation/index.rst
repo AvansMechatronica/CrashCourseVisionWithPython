@@ -17,6 +17,8 @@ Welkom bij de Crash Course Vision With Python
    :caption: Contents:
 
    documentation/inleiding.md
+   documentation/opdrachten.md
+   documentation/referenties.md
 
 
 Deze workshop is ontwikkeld door:
