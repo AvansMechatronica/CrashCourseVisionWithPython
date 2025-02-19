@@ -17,7 +17,7 @@ Welkom bij de Crash Course Vision With Python
    :caption: Contents:
 
    documentation/inleiding.md
-   documentation/opdrachten.md
+   documentation/demonstraties.md
    documentation/referenties.md
 
 
