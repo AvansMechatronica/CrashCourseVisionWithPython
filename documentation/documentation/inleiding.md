@@ -1,6 +1,6 @@
 # Inleiding
 
-Welkom bij deze crash course **Vision With Python**. In deze course gaan we een aantal opdrachten uitvoeren die de een tipje van de sluier oplichten over de mogelijkheden om vision applicaties te maken in Python met behulp van de *OpenCV* en *numyp* bibliotheken van Phyton.
+Welkom bij deze crash course **Vision With Python**. In deze course gaan we een aantal demonstraties en opdrachten uitvoeren die de een tipje van de sluier oplichten over de mogelijkheden om vision applicaties te maken in Python met behulp van de *OpenCV* en *numyp* bibliotheken van Phyton.
 
 De bij behorende presenatie kun je hier terug vinden: [*Crash Course Vision With Python*](./CrashCourseVisionWithPython.pdf)
 
