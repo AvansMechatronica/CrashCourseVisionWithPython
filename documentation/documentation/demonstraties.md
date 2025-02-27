@@ -1,5 +1,7 @@
 # Demonstraties
 
+**Tip: Open linken in nieuw tabblad om deze pagina te behouden**
+
 ## [Demonstratie 1](https://colab.research.google.com/drive/1UII_VojS0UjPJk-TtpBFxn5DTlQiJWpA?usp=sharing)
 * Afbeelding laden in programma
 * Algemene informatie over afbeelding verkrijgen
